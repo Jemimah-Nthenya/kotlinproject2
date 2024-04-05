@@ -1,6 +1,7 @@
 fun main() {
     val contacts= Contacts(9808762,"Janet","0114556672")
     println(contacts.id)
+    println(contacts.)
 }
 data class Contacts(
         var id: Int? = null,
