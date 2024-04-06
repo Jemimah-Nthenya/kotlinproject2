@@ -22,9 +22,7 @@ val person2=People("Mary",6573412,"0110572835")
 open class People(var name:String, var id:Int, var phoneNumber:String){}
 
 
-
-
-
+//Added a comment
 
 
 
